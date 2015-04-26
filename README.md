@@ -13,3 +13,4 @@ Movie Trailer API:: www.traileraddict.com/trailerapi
 
 Updated::
 Screenshots: (Loading Screen)
+http:// MovieTalkies/UI_Design/Screenshot_2015-04-26-19-21-14.png  "Loading Screen"
